@@ -1,2 +1,2 @@
 # Doppelganger
-AI clone of your self
+AI clone of you!
