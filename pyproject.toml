@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "doppelganger"
+version = "0.1.0"
+description = "AI clone of yourself"
+authors = ["Sangeeth Mathew John <sangeeth.codelab@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+ollama = "^0.4.7"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
